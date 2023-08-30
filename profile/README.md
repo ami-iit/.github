@@ -13,7 +13,7 @@ If you want to know more about us:
 
 This GitHub organization contains different types of repositories:
 * **Reusable software** libraries that make algorithms developed in AMI, developed in C++, Python or MATLAB available to the research community and ready to be used. Examples: 
-* **Reproducible publication software** for each paper published by AMI, to easily reproduce the results contained in the scientific papers written by AMI members. These repos can be identified by the `paper_` prefix
+* **Reproducible publication software** for each paper published by AMI, to easily reproduce the results contained in the scientific papers written by AMI members. These repos can be identified by the `paper_` prefix.
 * **Organisational** repositories, used to organize research and development activities. These repos can be identified by the `axis_`, `component_`, `element_` or `projection_` prefix in their name.
 * **Research Outreach** repositories, used to advertise and contain material related to workshops, courses or other activities by AMI members. These repos can be identified by the `ws_` or `course_` prefix in their name.
 
