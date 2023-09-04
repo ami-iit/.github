@@ -9,7 +9,7 @@ If you want to know more about us:
 * Visit our website at [**🌐 https://ami.iit.it/**](https://ami.iit.it/)
 * Follow us on Instagram https://www.instagram.com/artificialmechintelligence/
 * Follow us on Twitter https://twitter.com/ami_iit
-
+* Follow us on Linkedin https://www.linkedin.com/company/ami-artificial-and-mechanical-intelligence
 
 This GitHub organization contains different types of repositories:
 * **Reusable software** libraries that make algorithms developed in AMI, developed in C++, Python or MATLAB available to the research community and ready to be used.
